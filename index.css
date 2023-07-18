@@ -52,13 +52,14 @@
 
 .common-p-font {
   font-size: 18px;
+  color: rgba(39, 39, 39, 0.60);
 }
 
 .parent2 {
   display: flex;
   gap: 24px;
   width: 80%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .box {
@@ -89,4 +90,8 @@
 
 .mb-50{
   margin-bottom: 50px;
+}
+
+.insta{
+  text-align: center;
 }
