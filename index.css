@@ -57,7 +57,7 @@
 
 .parent2 {
   display: flex;
-  gap: 24px;
+  gap: 25px;
   width: 80%;
   margin: 0 auto;
 }
@@ -124,4 +124,10 @@
   border: none;
   font-size: 18px;
   cursor:pointer;
+}
+
+.child2{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
 }
