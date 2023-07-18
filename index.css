@@ -29,9 +29,9 @@
 }
 
 .btn {
-  border-radius: 8px;
+  border-radius: 6px;
   background: #e55473;
-  padding: 20px 43px;
+  padding: 20px 38px;
   color: white;
   font-weight: bold;
   border: none;
@@ -88,10 +88,40 @@
   object-fit:contain;
 }
 
+.mb-100{
+  margin-bottom: 100px;
+}
+
+/** Insta section */
+.insta{
+  text-align: center;
+}
+
+
+/** get the mail section */
+.bg-4{
+  background-image: url("./Flower Asset/Rectangle\ 9.png");
+  height: 400px;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.get-the-mail{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .mb-50{
   margin-bottom: 50px;
 }
 
-.insta{
-  text-align: center;
+.input-field{
+  width: 700px;
+  height: 55px;
+  border-radius: 8px;
+  border: none;
+  font-size: 18px;
+  cursor:pointer;
 }
